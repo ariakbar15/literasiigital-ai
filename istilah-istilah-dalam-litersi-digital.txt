@@ -1,1 +1,216 @@
 
+Pendahuluan
+Di era perkembangan teknologi informasi yang semakin pesat, literasi digital menjadi salah satu kemampuan penting yang perlu dimiliki oleh mahasiswa. Literasi digital tidak hanya berkaitan dengan kemampuan menggunakan perangkat teknologi, tetapi juga mencakup keterampilan mencari, memahami, mengevaluasi, dan memanfaatkan informasi digital secara kritis dan bertanggung jawab. Kemampuan ini sangat dibutuhkan dalam kegiatan akademik, terutama ketika mahasiswa mencari referensi melalui buku digital, jurnal ilmiah, dan berbagai sumber informasi di internet.
+
+Dalam dunia pendidikan tinggi, terdapat banyak istilah yang berkaitan dengan literasi digital, seperti e-book, jurnal ilmiah, sitasi, DOI (Digital Object Identifier), open access, dan reference manager. Selain itu, perkembangan kecerdasan buatan atau Artificial Intelligence (AI) juga memperkenalkan berbagai istilah baru, seperti prompt engineering, AI generatif, dan halusinasi AI. Memahami istilah-istilah tersebut dapat membantu mahasiswa memanfaatkan teknologi secara lebih efektif untuk mendukung proses belajar, penelitian, dan penyusunan karya ilmiah.
+
+Melalui artikel ini, pembaca akan mengenal berbagai istilah literasi digital yang berhubungan dengan buku, jurnal ilmiah, penelitian, dan penggunaan AI. Setiap istilah disertai penjelasan sederhana dan contoh penerapan agar mudah dipahami serta dapat digunakan dalam kehidupan akademik maupun dunia bisnis.
+
+Mengenal Istilah Literasi Digital: Panduan Mahasiswa Memahami Buku, Jurnal Ilmiah, dan AI
+
+
+Kamus Literasi Digital untuk Mahasiswa
+Edisi 1 · 30 istilah penting seputar buku, jurnal, penelitian, dan AI
+
+A. Istilah dasar literasi akademik digital
+1. Literasi Digital (Digital Literacy)
+
+Kemampuan menggunakan teknologi digital untuk mencari, memahami, mengevaluasi, membuat, dan membagikan informasi secara efektif, kritis, dan bertanggung jawab.
+
+Contoh: Mahasiswa mencari referensi melalui perpustakaan digital dan memeriksa kredibilitas sumber sebelum menggunakannya dalam tugas.
+
+2. Buku Digital (E-book)
+
+Buku dalam format elektronik yang dapat dibaca melalui komputer, tablet, atau ponsel.
+
+Contoh: Membaca buku manajemen bisnis dalam format PDF atau EPUB untuk mendukung pembelajaran.
+
+3. Jurnal Ilmiah (Academic Journal)
+
+Publikasi berkala yang memuat artikel ilmiah, seperti hasil penelitian, kajian teori, atau tinjauan literatur.
+
+Contoh: Menggunakan artikel jurnal tentang pemasaran digital sebagai referensi untuk makalah kuliah.
+
+4. Artikel Ilmiah (Scholarly Article)
+
+Tulisan akademik yang membahas suatu topik berdasarkan penelitian, teori, atau analisis ilmiah.
+
+Contoh: Artikel yang mengkaji pengaruh penggunaan AI terhadap produktivitas usaha kecil.
+
+5. Referensi Digital (Digital Reference)
+
+Sumber informasi elektronik yang digunakan untuk mendukung penulisan akademik, seperti buku elektronik, jurnal, laporan, dan dokumen resmi.
+
+Contoh: Mengutip laporan digital dari lembaga penelitian untuk memperkuat argumen dalam makalah.
+
+B. Istilah pencarian buku dan jurnal ilmiah
+6. Google Scholar
+
+Google Scholar adalah mesin pencari untuk menemukan literatur akademik, seperti artikel jurnal, tesis, buku, dan makalah ilmiah.
+
+Contoh: Mencari publikasi dengan kata kunci “artificial intelligence in digital marketing”.
+
+7. Basis Data Akademik (Academic Database)
+
+Sistem digital yang mengumpulkan dan menyediakan akses ke publikasi ilmiah yang dapat dicari berdasarkan topik, penulis, atau tahun terbit.
+
+Contoh: Scopus dan Web of Science merupakan basis data yang digunakan untuk menelusuri literatur ilmiah.
+
+8. Repositori Digital (Digital Repository)
+
+Tempat penyimpanan dan penyediaan dokumen digital, seperti skripsi, tesis, disertasi, laporan penelitian, dan publikasi institusi.
+
+Contoh: Repositori universitas untuk mencari skripsi terdahulu yang relevan dengan topik penelitian.
+
+9. Kata Kunci (Keywords)
+
+Kata atau frasa utama yang menggambarkan topik dan digunakan untuk menemukan informasi yang relevan.
+
+Contoh: Kata kunci “literasi digital”, “kecerdasan buatan”, dan “bisnis digital”.
+
+10. Metadata
+
+Informasi yang menjelaskan suatu dokumen digital, misalnya judul, nama penulis, tahun terbit, penerbit, abstrak, dan DOI.
+
+Contoh: Memeriksa nama penulis dan tahun penerbitan jurnal sebelum mencantumkannya dalam daftar pustaka.
+
+C. Istilah penting dalam penelitian dan penulisan ilmiah
+11. Abstrak (Abstract)
+
+Ringkasan singkat sebuah artikel ilmiah yang umumnya menjelaskan tujuan, metode, hasil, dan kesimpulan penelitian.
+
+Contoh: Membaca abstrak terlebih dahulu untuk menilai apakah jurnal sesuai dengan topik tugas.
+
+12. Tinjauan Literatur (Literature Review)
+
+Proses mengidentifikasi, membaca, membandingkan, dan menyintesis penelitian terdahulu yang relevan dengan suatu topik.
+
+Contoh: Membandingkan sepuluh artikel tentang penggunaan AI untuk meningkatkan pelayanan pelanggan.
+
+13. Metodologi Penelitian (Research Methodology)
+
+Pendekatan dan alasan ilmiah yang mendasari cara penelitian dirancang dan dilaksanakan.
+
+Contoh: Memahami alasan peneliti memilih survei untuk mengukur perilaku konsumen.
+
+14. Sitasi (Citation)
+
+Penyebutan sumber informasi yang digunakan dalam tulisan untuk mengakui pemikiran atau temuan penulis lain.
+
+Contoh: Mencantumkan nama penulis dan tahun publikasi sesuai gaya sitasi yang diwajibkan.
+
+15. Daftar Pustaka (Reference List)
+
+Daftar sumber yang dirujuk dalam karya ilmiah, disusun berdasarkan gaya penulisan yang ditentukan.
+
+Contoh: Menyusun sumber jurnal dan buku menggunakan format APA edisi ke-7 jika diminta dosen.
+
+16. DOI (Digital Object Identifier)
+
+Pengenal digital permanen yang digunakan untuk mengidentifikasi suatu objek digital, termasuk banyak artikel ilmiah.
+
+Contoh: DOI membantu pembaca menemukan artikel melalui tautan seperti https://doi.org/10.xxxx/xxxxx.
+
+17. Tinjauan Sejawat (Peer Review)
+
+Proses penilaian karya ilmiah oleh ahli lain yang memiliki kompetensi dalam bidang terkait.
+
+Contoh: Memeriksa apakah sebuah artikel telah melalui proses peer review sebelum menjadikannya referensi utama.
+
+D. Istilah kredibilitas dan etika digital
+18. Verifikasi Informasi (Information Verification)
+
+Proses memeriksa kebenaran suatu informasi dengan membandingkannya terhadap sumber yang tepercaya.
+
+Contoh: Memastikan bahwa angka statistik dalam artikel benar-benar tercantum dalam laporan aslinya.
+
+19. Plagiarisme (Plagiarism)
+
+Penggunaan gagasan, tulisan, atau karya orang lain tanpa pengakuan yang semestinya sehingga disajikan secara tidak jujur sebagai karya sendiri.
+
+Contoh: Menyalin paragraf dari jurnal tanpa sitasi merupakan tindakan yang dapat termasuk plagiarisme.
+
+20. Hak Cipta (Copyright)
+
+Hak hukum yang melindungi karya, termasuk buku, artikel, gambar, dan materi digital, sesuai peraturan yang berlaku.
+
+Contoh: Memperhatikan izin dan ketentuan penggunaan sebelum mengunggah ulang isi buku ke blog.
+
+21. Lisensi Creative Commons
+
+Jenis lisensi yang memungkinkan pencipta memberikan izin tertentu untuk menggunakan atau membagikan karyanya dengan persyaratan yang ditentukan.
+
+Contoh: Memeriksa apakah gambar berlisensi CC BY boleh digunakan di blog dengan mencantumkan atribusi yang sesuai.
+
+22. Privasi Digital (Digital Privacy)
+
+Perlindungan informasi pribadi ketika menggunakan layanan dan teknologi digital.
+
+Contoh: Tidak mengunggah data pribadi responden penelitian ke layanan AI tanpa dasar dan perlindungan yang sesuai.
+
+E. Istilah AI yang mendukung kegiatan akademik
+23. Kecerdasan Buatan (Artificial Intelligence/AI)
+
+Teknologi yang memungkinkan sistem komputer melakukan tugas tertentu yang biasanya memerlukan kemampuan manusia, seperti memahami bahasa, mengenali pola, dan menghasilkan konten.
+
+Contoh: Menggunakan AI untuk mendapatkan penjelasan awal tentang konsep literasi digital.
+
+24. Rekayasa Prompt (Prompt Engineering)
+
+Proses menyusun dan menyempurnakan instruksi agar AI memberikan respons yang lebih relevan dengan kebutuhan pengguna.
+
+Contoh: Meminta AI merangkum jurnal berdasarkan tujuan penelitian, metode, hasil, dan keterbatasannya.
+
+25. AI Generatif (Generative AI)
+
+Teknologi AI yang dapat menghasilkan konten baru, seperti teks, gambar, suara, atau kode, berdasarkan instruksi dan pola yang dipelajarinya.
+
+Contoh: Membantu menyusun kerangka awal artikel blog tentang manfaat literasi digital bagi mahasiswa.
+
+26. Halusinasi AI (AI Hallucination)
+
+Kondisi ketika AI menghasilkan informasi yang keliru, tidak didukung bukti, atau tampak meyakinkan meskipun tidak benar.
+
+Contoh: AI memberikan judul jurnal, nama penulis, atau DOI yang ternyata tidak ada. Karena itu, referensi harus diperiksa melalui sumber asli.
+
+27. Evaluasi Keluaran AI (AI Output Evaluation)
+
+Proses menilai ketepatan, relevansi, kelengkapan, dan potensi bias pada jawaban yang dihasilkan AI.
+
+Contoh: Membandingkan ringkasan AI dengan isi jurnal asli untuk memastikan hasil penelitian tidak salah ditafsirkan.
+
+F. Istilah pengelolaan pengetahuan digital
+28. Manajer Referensi (Reference Manager)
+
+Perangkat lunak untuk menyimpan, mengatur, dan menyusun sitasi serta daftar pustaka.
+
+Contoh: Zotero dan Mendeley dapat membantu mengelola koleksi artikel ilmiah.
+
+29. Manajemen Pengetahuan Digital (Digital Knowledge Management)
+
+Proses mengumpulkan, mengorganisasi, menyimpan, dan memanfaatkan pengetahuan menggunakan teknologi digital.
+
+Contoh: Mengelompokkan catatan jurnal berdasarkan tema, tahun, dan relevansinya dalam aplikasi pencatatan digital.
+
+30. Akses Terbuka (Open Access)
+
+Akses terhadap publikasi ilmiah secara daring tanpa biaya berlangganan bagi pembaca, sesuai ketentuan akses dan lisensinya.
+
+Contoh: Membaca artikel ilmiah melalui jurnal akses terbuka untuk mendapatkan referensi tanpa harus membeli artikel tersebut.
+
+Tips menjadikan kumpulan istilah ini sebagai konten blog
+Agar artikelmu tidak hanya menjadi daftar definisi, kamu dapat menggunakan pola penulisan berikut untuk setiap istilah:
+
+Istilah: nama istilah dalam bahasa Indonesia dan bahasa Inggris.
+
+Pengertian: penjelasan dengan bahasa sederhana.
+
+Contoh penerapan: situasi nyata dalam kegiatan mahasiswa atau bisnis.
+
+Manfaat: alasan istilah tersebut penting dipahami.
+
+Sumber bacaan: buku, jurnal ilmiah, dokumentasi resmi, atau sumber tepercaya lainnya.
+
+Untuk menjaga kualitas blog, hindari menyalin isi buku atau jurnal secara panjang tanpa izin. Gunakan penjelasan dengan kata-katamu sendiri, cantumkan sumber, dan verifikasi informasi yang diperoleh dari AI.
+
+Kamu juga bisa membagi 30 istilah ini menjadi enam artikel berseri, masing-masing lima istilah, agar lebih mudah dibaca dan dikelola
